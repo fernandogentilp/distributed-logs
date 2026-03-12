@@ -3,4 +3,4 @@ This project demonstrates how Lamport logical clocks can be used to order events
 This is a project I decided to do to begin my studies in Distributed Systems and to play around a bit with logs, logical clocks and nodes.
 
 
-#==== COMING SOON: DOCUMENTATION AND POSSIBLY UML ====
+# ==== COMING SOON: DOCUMENTATION AND POSSIBLY UML ====
